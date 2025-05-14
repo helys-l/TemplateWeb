@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.font-cartoon {
+  font-family: 'Comic Neue', cursive;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
